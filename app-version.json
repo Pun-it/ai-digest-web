@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "1.0.12",
+  "latestVersionCode": 14,
+  "latestVersionName": "1.0.13",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Less verbose reader: collapsible sections, concise toggle, cleaner spacing + new AI Digest logo"
+  "releaseNotes": "Fix toggles (Concise/Full, Expand all/Collapse, per-section), more readable: 14.5sp/22lh, cards 16dp, TOC chips"
 }
