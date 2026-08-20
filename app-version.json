@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "1.0.10",
+  "latestVersionCode": 12,
+  "latestVersionName": "1.0.11",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Fix Available scroll lag — uses throttled hide/show threshold"
+  "releaseNotes": "Fix update check cache so banner pops instantly on restart"
 }
