@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "1.0.13",
+  "latestVersionCode": 15,
+  "latestVersionName": "1.0.14",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Fix toggles (Concise/Full, Expand all/Collapse, per-section), more readable: 14.5sp/22lh, cards 16dp, TOC chips"
+  "releaseNotes": "Concise = headings only, Full shows all — fix toggles"
 }
