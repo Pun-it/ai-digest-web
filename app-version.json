@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 8,
-  "latestVersionName": "1.0.7",
+  "latestVersionCode": 9,
+  "latestVersionName": "1.0.8",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Hides endpoint, cleaner feedback, adds Next digest in your local time (1pm IST)"
+  "releaseNotes": "Update banner now pops — hides endpoint + next digest local time"
 }
