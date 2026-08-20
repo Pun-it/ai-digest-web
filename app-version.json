@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 7,
-  "latestVersionName": "1.0.6",
+  "latestVersionCode": 8,
+  "latestVersionName": "1.0.7",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Feedback now goes to server (plain-text, private) + in-app update banner"
+  "releaseNotes": "Hides endpoint, cleaner feedback, adds Next digest in your local time (1pm IST)"
 }
