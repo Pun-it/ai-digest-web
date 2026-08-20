@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "1.0.11",
+  "latestVersionCode": 13,
+  "latestVersionName": "1.0.12",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Fix update check cache so banner pops instantly on restart"
+  "releaseNotes": "Less verbose reader: collapsible sections, concise toggle, cleaner spacing + new AI Digest logo"
 }
