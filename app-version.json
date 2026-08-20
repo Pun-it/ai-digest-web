@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.0.9",
+  "latestVersionCode": 11,
+  "latestVersionName": "1.0.10",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Update banner on top + Available digests collapses on scroll, pops on scroll up"
+  "releaseNotes": "Fix Available scroll lag — uses throttled hide/show threshold"
 }
