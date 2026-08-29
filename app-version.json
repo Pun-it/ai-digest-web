@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "1.0.14",
+  "latestVersionCode": 17,
+  "latestVersionName": "1.0.16",
   "downloadUrl": "https://appdistribution.firebase.google.com/testerapps/1:894069938267:android:22976e9eaf66ac65b2c77e",
-  "releaseNotes": "Concise = headings only, Full shows all — fix toggles"
+  "releaseNotes": "Readability: citation links render as compact chips instead of wall-of-text; Request Sources auto-sends when online"
 }
